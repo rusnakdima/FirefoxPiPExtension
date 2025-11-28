@@ -1,0 +1,8 @@
+{
+  "name": "Firefox PiP Always On Top",
+  "description": "Automatically sets Picture-in-Picture windows to always be on top and visible on all workspaces",
+  "uuid": "firefox-pip-always-on-top@rusnakdima.github.com",
+  "shell-version": ["45", "46", "47", "48", "49"],
+  "version": 1,
+  "url": "https://github.com/rusnakdima/FirefoxPiPExtension"
+}
